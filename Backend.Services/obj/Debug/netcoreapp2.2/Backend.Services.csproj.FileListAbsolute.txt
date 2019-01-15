@@ -1,0 +1,14 @@
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Common.Models.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.csprojAssemblyReference.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.csproj.CoreCompileInputs.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.AssemblyInfoInputs.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.AssemblyInfo.cs
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Backend.Services.deps.json
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Backend.Services.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Backend.Services.pdb
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Common.Models.pdb
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.csproj.CopyComplete
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Services\obj\Debug\netcoreapp2.2\Backend.Services.pdb

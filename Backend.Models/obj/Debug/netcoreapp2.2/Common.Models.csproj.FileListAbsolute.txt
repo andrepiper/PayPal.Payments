@@ -1,0 +1,9 @@
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\bin\Debug\netcoreapp2.2\Common.Models.deps.json
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\bin\Debug\netcoreapp2.2\Common.Models.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\bin\Debug\netcoreapp2.2\Common.Models.pdb
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.csprojAssemblyReference.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.AssemblyInfoInputs.cache
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.AssemblyInfo.cs
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.dll
+C:\Users\AndrePiper\source\repos\PayPal.Payments\Backend.Models\obj\Debug\netcoreapp2.2\Common.Models.pdb
